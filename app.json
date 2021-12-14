@@ -1,0 +1,8 @@
+{
+	"name": "cloudreve",
+	"description": "Deploy cloudreve on Heroku.",
+	"repository": "https://github.com/ifuaer/cloudreve-heroku",
+	"keywords": ["cloudreve"],
+	"website": "https://cloudreve.org",
+	"stack": "container"
+}
