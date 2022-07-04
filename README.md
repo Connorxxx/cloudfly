@@ -2,7 +2,7 @@
 
 ## 部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Takuwy/cloudfly)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Connorxxx/cloudfly)
 
 ## 概述
 
